@@ -89,7 +89,7 @@
         <test expect_failure="true">
             <param name="genus" value="Testus" />
             <param name="species" value="testum" />
-            <param name="abbr" value="test" />
+            <param name="abbr" value="test2" />
             <param name="common" value="test stuff" />
             <param name="common" value="My cool new test organism" />
 
@@ -98,7 +98,7 @@
         <test expect_failure="true">
             <param name="genus" value="Testus" />
             <param name="species" value="testum" />
-            <param name="abbr" value="test" />
+            <param name="abbr" value="test2" />
             <param name="common" value="test stuff" />
             <param name="common" value="My cool new test organism" />
             <conditional name="infra">
