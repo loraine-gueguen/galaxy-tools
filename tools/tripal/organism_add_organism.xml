@@ -91,7 +91,7 @@
             <param name="species" value="testum" />
             <param name="abbr" value="test" />
             <param name="common" value="test stuff" />
-            <param name="common" value="My cool new test organism" />
+            <param name="common" value="My very cool new test organism" />
 
             <expand macro="test_result" />
         </test>
