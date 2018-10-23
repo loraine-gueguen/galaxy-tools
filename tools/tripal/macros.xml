@@ -7,13 +7,6 @@
         </requirements>
     </xml>
 
-    <xml name="stdio">
-        <stdio>
-            <regex level="fatal" match="Exception:" source="stderr" />
-            <regex level="fatal" match="error" source="stderr" />
-        </stdio>
-    </xml>
-
     <token name="@WRAPPER_VERSION@">3.0</token>
 
     <xml name="citation">
