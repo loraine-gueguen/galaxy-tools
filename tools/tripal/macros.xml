@@ -61,7 +61,7 @@
 
     <xml name="test_result">
         <assert_stderr>
-            <not_has_text text="Got unexpected extra arguments"/>
+            <has_text text="Got unexpected extra arguments"/>
             <has_text text="MissingSchema" />
         </assert_stderr>
     </xml>
